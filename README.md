@@ -3,7 +3,7 @@
 ## I'm a beginner .NET programmer
 
 ## Languages
-[![C++](https://img.shields.io/badge/c++-%23DD0031.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/Presstomsk)]
+[![C++](https://img.shields.io/badge/c++-%23DD0031.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/Presstomsk)
 [![C#](https://img.shields.io/badge/c%23-%23DD0031.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/Presstomsk)
 [![SQL](https://img.shields.io/badge/SQL-%23DD0031.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Presstomsk)
 
@@ -19,4 +19,10 @@
 [![SQLite](https://img.shields.io/badge/sqlite-%23009639.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/Presstomsk)
 [![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-%23009639.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://github.com/Presstomsk)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%23009639.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/Presstomsk)
-[![MySQL](https://img.shields.io/badge/working%20with%20CSV,JSON,XML-%23009639.svg?style=for-the-badge&logo=&logoColor=white)](https://github.com/Presstomsk)
+[![XML,JSON,CSV](https://img.shields.io/badge/working%20with%20CSV,JSON,XML-%23009639.svg?style=for-the-badge&logo=&logoColor=white)](https://github.com/Presstomsk)
+
+## Extra skills
+[![Data structures](https://img.shields.io/badge/data%20structures-%23E34F26.svg?style=for-the-badge&logo=&logoColor=white)](https://github.com/Presstomsk)
+[![design patterns ](https://img.shields.io/badge/design%20patterns-%23E34F26.svg?style=for-the-badge&logo=&logoColor=white)](https://github.com/Presstomsk)
+[![SOLID](https://img.shields.io/badge/solid-%23E34F26.svg?style=for-the-badge&logo=&logoColor=white)](https://github.com/Presstomsk)
+[![Agile/Scrum](https://img.shields.io/badge/Scrum-%23E34F26.svg?style=for-the-badge&logo=&logoColor=white)](https://github.com/Presstomsk)

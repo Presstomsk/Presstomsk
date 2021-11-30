@@ -1,4 +1,4 @@
-[![Header](https://github.com/Presstomsk/Presstomsk/blob/main/Roman%20Permiakov.jpg)](https://github.com/Presstomsk)
+[![Header](https://github.com/Presstomsk/Presstomsk/blob/main/Roman%20Permiakov1.jpg)](https://github.com/Presstomsk)
 
 ##### Hello! I'm a beginner .NET programmer
 

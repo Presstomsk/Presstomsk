@@ -3,4 +3,4 @@
 ## I'm a beginner .NET programmer
 
 ## Languages and Tools
-![C++](https://img.shields.io/badge/-C++-#333333)
+![C++](https://img.shields.io/badge/-C++-#333333?style=for-the-badge&logo=appveyor)

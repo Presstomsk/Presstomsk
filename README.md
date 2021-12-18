@@ -17,7 +17,7 @@
 ##### SQL and no-SQL Databases
 [![MySQL](https://img.shields.io/badge/mysql-%23009639.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Presstomsk)
 [![SQLite](https://img.shields.io/badge/sqlite-%23009639.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/Presstomsk)
-[![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-%23009639.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://github.com/Presstomsk)
+[![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23009639.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://github.com/Presstomsk)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%23009639.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/Presstomsk)
 [![XML,JSON,CSV](https://img.shields.io/badge/working%20with%20CSV,JSON,XML-%23009639.svg?style=for-the-badge&logo=&logoColor=white)](https://github.com/Presstomsk)
 

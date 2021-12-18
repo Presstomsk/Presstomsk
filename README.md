@@ -26,3 +26,5 @@
 [![design patterns ](https://img.shields.io/badge/design%20patterns-%23E34F26.svg?style=for-the-badge&logo=&logoColor=white)](https://github.com/Presstomsk)
 [![SOLID](https://img.shields.io/badge/solid-%23E34F26.svg?style=for-the-badge&logo=&logoColor=white)](https://github.com/Presstomsk)
 [![Agile/Scrum](https://img.shields.io/badge/Scrum-%23E34F26.svg?style=for-the-badge&logo=&logoColor=white)](https://github.com/Presstomsk)
+[![Trello](https://img.shields.io/badge/Trello-%23E34F26.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://github.com/Presstomsk)
+[![DocFX](https://img.shields.io/badge/DocFX-%23E34F26.svg?style=for-the-badge&logo=&logoColor=white)](https://github.com/Presstomsk)

@@ -2,7 +2,7 @@
 
 ##### Hello! I'm a beginner .NET programmer
 
-##### Мои рабочие проекты![по ссылке](https://github.com/stars/Presstomsk/lists/my-stack) 
+##### Мои рабочие проекты ![по ссылке](https://github.com/stars/Presstomsk/lists/my-stack) 
 
 ##### Languages
 [![C++](https://img.shields.io/badge/c++-%23DD0031.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/Presstomsk)

@@ -14,7 +14,7 @@
 [![JavaScript](https://img.shields.io/badge/javascript-%23DD0031.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/Presstomsk)
 
 ##### Tools and Technologies 
-[![.NET](https://img.shields.io/badge/framework-%230170FE?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/Presstomsk)
+[![.NET](https://img.shields.io/badge/.NET-%230170FE?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/Presstomsk)
 [![ADO.NET](https://img.shields.io/badge/ADO.NET-%230170FE?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/Presstomsk)
 [![Windows Forms](https://img.shields.io/badge/winforms-%230170FE?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/Presstomsk)
 [![WPF](https://img.shields.io/badge/WPF-%230170FE?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/Presstomsk)

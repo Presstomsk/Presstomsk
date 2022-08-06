@@ -19,6 +19,8 @@
 [![Windows Forms](https://img.shields.io/badge/winforms-%230170FE?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/Presstomsk)
 [![WPF](https://img.shields.io/badge/WPF-%230170FE?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/Presstomsk)
 [![GitHub](https://img.shields.io/badge/github-%230170FE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Presstomsk)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-%230170FE?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/Presstomsk)
+[![SASS](https://img.shields.io/badge/SASS-%230170FE?style=for-the-badge&logo=SASS&logoColor=white)](https://github.com/Presstomsk)
 
 ##### SQL and no-SQL Databases
 [![MySQL](https://img.shields.io/badge/mysql-%23009639.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Presstomsk)

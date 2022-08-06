@@ -9,6 +9,9 @@
 [![C#](https://img.shields.io/badge/c%23-%23DD0031.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/Presstomsk)
 [![SQL](https://img.shields.io/badge/SQL-%23DD0031.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Presstomsk)
 [![HTML5](https://img.shields.io/badge/html5-%23DD0031.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Presstomsk)
+[![CSS3](https://img.shields.io/badge/css3-%23DD0031.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Presstomsk)
+[![PHP](https://img.shields.io/badge/php-%23DD0031.svg?style=for-the-badge&logo=php&logoColor=white)](https://github.com/Presstomsk)
+[![JavaScript](https://img.shields.io/badge/javascript-%23DD0031.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/Presstomsk)
 
 ##### Tools and Technologies 
 [![.NET](https://img.shields.io/badge/framework-%230170FE?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/Presstomsk)

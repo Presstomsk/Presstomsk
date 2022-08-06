@@ -8,6 +8,7 @@
 [![C++](https://img.shields.io/badge/c++-%23DD0031.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/Presstomsk)
 [![C#](https://img.shields.io/badge/c%23-%23DD0031.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/Presstomsk)
 [![SQL](https://img.shields.io/badge/SQL-%23DD0031.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Presstomsk)
+[![HTML5](https://img.shields.io/badge/html5-%23DD0031.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Presstomsk)
 
 ##### Tools and Technologies 
 [![.NET](https://img.shields.io/badge/framework-%230170FE?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/Presstomsk)

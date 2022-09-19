@@ -36,3 +36,5 @@
 [![Agile/Scrum](https://img.shields.io/badge/Scrum-%23E34F26.svg?style=for-the-badge&logo=&logoColor=white)](https://github.com/Presstomsk)
 [![Trello](https://img.shields.io/badge/Trello-%23E34F26.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://github.com/Presstomsk)
 [![DocFX](https://img.shields.io/badge/DocFX-%23E34F26.svg?style=for-the-badge&logo=&logoColor=white)](https://github.com/Presstomsk)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Presstomsk)](https://github.com/Presstomsk/github-readme-stats)

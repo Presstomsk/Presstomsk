@@ -1,6 +1,6 @@
 ![Roman Permiakov1](https://user-images.githubusercontent.com/77540319/144228987-a705f6fc-2d97-4ad0-b65c-6dd94e7d6218.jpg)
 
-##### Hello! I'm a beginner .NET programmer
+##### Hello! I'm .NET programmer
 
 ##### Мои рабочие проекты ![по ссылке](https://github.com/stars/Presstomsk/lists/my-stack) 
 

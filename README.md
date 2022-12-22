@@ -25,6 +25,7 @@
 [![ASP.NET CORE MVC](https://img.shields.io/badge/ASP.NET&nbsp;CORE&nbsp;MVC-%230170FE?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/Presstomsk)
 [![ASP.NET CORE Razor Pages](https://img.shields.io/badge/ASP.NET&nbsp;CORE&nbsp;Razor&nbsp;Pages-%230170FE?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/Presstomsk)
 [![Blazor](https://img.shields.io/badge/blazor-%230170FE?style=for-the-badge&logo=blazor&logoColor=white)](https://github.com/Presstomsk)
+[![Chart.js](https://img.shields.io/badge/chart.js-%230170FE?style=for-the-badge&logo=chart.js&logoColor=white)](https://github.com/Presstomsk)
 
 ##### SQL and no-SQL Databases
 [![MySQL](https://img.shields.io/badge/mysql-%23009639.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Presstomsk)

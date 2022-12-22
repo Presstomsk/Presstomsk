@@ -27,6 +27,7 @@
 [![Blazor](https://img.shields.io/badge/blazor-%230170FE?style=for-the-badge&logo=blazor&logoColor=white)](https://github.com/Presstomsk)
 [![Chart.js](https://img.shields.io/badge/chart.js-%230170FE?style=for-the-badge&logo=chart.js&logoColor=white)](https://github.com/Presstomsk)
 [![Docker](https://img.shields.io/badge/docker-%230170FE?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Presstomsk)
+[![Postman](https://img.shields.io/badge/Postman-%230170FE?style=for-the-badge&logo=postman&logoColor=white)](https://github.com/Presstomsk)
 
 ##### SQL and no-SQL Databases
 [![MySQL](https://img.shields.io/badge/mysql-%23009639.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Presstomsk)

@@ -10,7 +10,6 @@
 [![SQL](https://img.shields.io/badge/SQL-%23DD0031.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Presstomsk)
 [![HTML5](https://img.shields.io/badge/html5-%23DD0031.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Presstomsk)
 [![CSS3](https://img.shields.io/badge/css3-%23DD0031.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Presstomsk)
-[![PHP](https://img.shields.io/badge/php-%23DD0031.svg?style=for-the-badge&logo=php&logoColor=white)](https://github.com/Presstomsk)
 [![JavaScript](https://img.shields.io/badge/javascript-%23DD0031.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/Presstomsk)
 
 ##### Tools and Technologies 
@@ -21,13 +20,14 @@
 [![GitHub](https://img.shields.io/badge/github-%230170FE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Presstomsk)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%230170FE?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/Presstomsk)
 [![SASS](https://img.shields.io/badge/SASS-%230170FE?style=for-the-badge&logo=SASS&logoColor=white)](https://github.com/Presstomsk)
+[![ASP.NET CORE](https://img.shields.io/badge/ASP.NET CORE-%230170FE?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/Presstomsk)
+[![Blazor](https://img.shields.io/badge/blazor-%230170FE?style=for-the-badge&logo=blazor&logoColor=white)](https://github.com/Presstomsk)
 
 ##### SQL and no-SQL Databases
 [![MySQL](https://img.shields.io/badge/mysql-%23009639.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Presstomsk)
 [![SQLite](https://img.shields.io/badge/sqlite-%23009639.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/Presstomsk)
 [![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23009639.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://github.com/Presstomsk)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%23009639.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/Presstomsk)
-[![XML,JSON,CSV](https://img.shields.io/badge/working%20with%20CSV,JSON,XML-%23009639.svg?style=for-the-badge&logo=&logoColor=white)](https://github.com/Presstomsk)
 
 ##### Extra skills
 [![Data structures](https://img.shields.io/badge/data%20structures-%23E34F26.svg?style=for-the-badge&logo=&logoColor=white)](https://github.com/Presstomsk)

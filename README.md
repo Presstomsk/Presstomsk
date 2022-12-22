@@ -20,7 +20,7 @@
 [![GitHub](https://img.shields.io/badge/github-%230170FE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Presstomsk)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%230170FE?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/Presstomsk)
 [![SASS](https://img.shields.io/badge/SASS-%230170FE?style=for-the-badge&logo=SASS&logoColor=white)](https://github.com/Presstomsk)
-[![ASP.NET CORE](https://img.shields.io/badge/ASP.NET CORE-%230170FE?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/Presstomsk)
+[![ASP.NET CORE](https://img.shields.io/badge/ASP.NET&nbsp;CORE-%230170FE?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/Presstomsk)
 [![Blazor](https://img.shields.io/badge/blazor-%230170FE?style=for-the-badge&logo=blazor&logoColor=white)](https://github.com/Presstomsk)
 
 ##### SQL and no-SQL Databases

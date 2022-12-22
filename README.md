@@ -21,6 +21,9 @@
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%230170FE?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/Presstomsk)
 [![SASS](https://img.shields.io/badge/SASS-%230170FE?style=for-the-badge&logo=SASS&logoColor=white)](https://github.com/Presstomsk)
 [![ASP.NET CORE](https://img.shields.io/badge/ASP.NET&nbsp;CORE-%230170FE?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/Presstomsk)
+[![ASP.NET CORE WEB API](https://img.shields.io/badge/ASP.NET&nbsp;CORE&nbsp;WEB&nbsp;API-%230170FE?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/Presstomsk)
+[![ASP.NET CORE MVC](https://img.shields.io/badge/ASP.NET&nbsp;CORE&nbsp;MVC-%230170FE?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/Presstomsk)
+[![ASP.NET CORE Razor Pages](https://img.shields.io/badge/ASP.NET&nbsp;CORE&nbsp;Razor&nbsp;Pages-%230170FE?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/Presstomsk)
 [![Blazor](https://img.shields.io/badge/blazor-%230170FE?style=for-the-badge&logo=blazor&logoColor=white)](https://github.com/Presstomsk)
 
 ##### SQL and no-SQL Databases
@@ -34,7 +37,6 @@
 [![design patterns ](https://img.shields.io/badge/design%20patterns-%23E34F26.svg?style=for-the-badge&logo=&logoColor=white)](https://github.com/Presstomsk)
 [![SOLID](https://img.shields.io/badge/solid-%23E34F26.svg?style=for-the-badge&logo=&logoColor=white)](https://github.com/Presstomsk)
 [![Agile/Scrum](https://img.shields.io/badge/Scrum-%23E34F26.svg?style=for-the-badge&logo=&logoColor=white)](https://github.com/Presstomsk)
-[![Trello](https://img.shields.io/badge/Trello-%23E34F26.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://github.com/Presstomsk)
 [![DocFX](https://img.shields.io/badge/DocFX-%23E34F26.svg?style=for-the-badge&logo=&logoColor=white)](https://github.com/Presstomsk)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Presstomsk)](https://github.com/Presstomsk/github-readme-stats)

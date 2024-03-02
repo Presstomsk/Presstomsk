@@ -1,9 +1,6 @@
 ![Roman Permiakov1](https://user-images.githubusercontent.com/77540319/144228987-a705f6fc-2d97-4ad0-b65c-6dd94e7d6218.jpg)
 
-##### Hello! I'm .NET programmer
-
-##### Мои рабочие проекты ![по ссылке](https://github.com/stars/Presstomsk/lists/my-stack)
-
+### Technologies
 <p>
 <img name="C#" src="https://github.com/Presstomsk/icons/blob/main/csharp-original.svg" width="70" height="70">
 <img name="html5" src="https://github.com/Presstomsk/icons/blob/main/html5-original-wordmark.svg" width="70" height="70">
@@ -37,7 +34,6 @@
 <img name="Visual Studio Code" src="https://github.com/Presstomsk/icons/blob/main/vscode-original.svg" width="70" height="70">
 </p>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Presstomsk)](https://github.com/Presstomsk/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Presstomsk&layout=compact)](https://github.com/Presstomsk/github-readme-stats)
+### Stats
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Presstomsk&theme=github)
+![Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Presstomsk&theme=github)

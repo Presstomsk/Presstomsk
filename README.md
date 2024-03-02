@@ -17,7 +17,13 @@
 <img name="ASP.NET CORE" src="https://github.com/Presstomsk/icons/blob/main/aspNetCore.png" width="70" height="70">
 <img name="EF Core" src="https://github.com/Presstomsk/icons/blob/main/efcore2.png" width="70" height="70">
 <img name="Blazor" src="https://github.com/Presstomsk/icons/blob/main/Blazor.png" width="70" height="70">
+<img name="Automapper" src="https://github.com/Presstomsk/icons/blob/main/AutoMapper.png" width="70" height="70">
+<img name="FluentValidation" src="https://github.com/Presstomsk/icons/blob/main/FV2.png" width="70" height="70">
+<img name="Quartz.Net" src="https://github.com/Presstomsk/icons/blob/main/QuartzNet.png" width="70" height="70">
+<img name="SignalR" src="https://github.com/Presstomsk/icons/blob/main/SignalR.svg" width="70" height="70">
+<img name="NancyFx" src="https://github.com/Presstomsk/icons/blob/main/NancyFx.png" width="70" height="70">
 <img name="RestAPI" src="https://github.com/Presstomsk/icons/blob/main/restapi.png" width="70" height="70">
+<img name="Polly" src="https://github.com/Presstomsk/icons/blob/main/Polly.png" width="70" height="70">
 <img name="Swagger" src="https://github.com/Presstomsk/icons/blob/main/swagger.png" width="70" height="70">
 <img name="Postman" src="https://github.com/Presstomsk/icons/blob/main/Postman.png" width="70" height="70">
 <img name="MicrosoftSQLServer" src="https://github.com/Presstomsk/icons/blob/main/MSSQL.png" width="70" height="70">

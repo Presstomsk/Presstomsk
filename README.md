@@ -40,7 +40,7 @@
 [![design patterns ](https://img.shields.io/badge/design%20patterns-%23E34F26.svg?style=for-the-badge&logo=&logoColor=white)](https://github.com/Presstomsk)
 [![SOLID](https://img.shields.io/badge/solid-%23E34F26.svg?style=for-the-badge&logo=&logoColor=white)](https://github.com/Presstomsk)
 [![Agile/Scrum](https://img.shields.io/badge/Scrum-%23E34F26.svg?style=for-the-badge&logo=&logoColor=white)](https://github.com/Presstomsk)
-[![DocFX](https://img.shields.io/badge/DocFX-%23E34F26.svg?style=for-the-badge&logo=&logoColor=white)](https://github.com/Presstomsk)
+<img name="DocFX" src="https://github.com/Presstomsk/icons/blob/main/docFx.jpg" width="70" height="70">
 <img name="Microsoft Visual Studio" src="https://github.com/Presstomsk/icons/blob/main/visualstudio-plain.svg" width="70" height="70">
 <img name="Visual Studio Code" src="https://github.com/Presstomsk/icons/blob/main/vscode-original.svg" width="70" height="70">
 

@@ -29,17 +29,10 @@
 [![Docker](https://img.shields.io/badge/docker-%230170FE?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Presstomsk)
 [![Postman](https://img.shields.io/badge/Postman-%230170FE?style=for-the-badge&logo=postman&logoColor=white)](https://github.com/Presstomsk)
 
-##### SQL and no-SQL Databases
-[![MySQL](https://img.shields.io/badge/mysql-%23009639.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Presstomsk)
-[![SQLite](https://img.shields.io/badge/sqlite-%23009639.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/Presstomsk)
-[![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23009639.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://github.com/Presstomsk)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%23009639.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/Presstomsk)
-
-##### Extra skills
-[![Data structures](https://img.shields.io/badge/data%20structures-%23E34F26.svg?style=for-the-badge&logo=&logoColor=white)](https://github.com/Presstomsk)
-[![design patterns ](https://img.shields.io/badge/design%20patterns-%23E34F26.svg?style=for-the-badge&logo=&logoColor=white)](https://github.com/Presstomsk)
-[![SOLID](https://img.shields.io/badge/solid-%23E34F26.svg?style=for-the-badge&logo=&logoColor=white)](https://github.com/Presstomsk)
-[![Agile/Scrum](https://img.shields.io/badge/Scrum-%23E34F26.svg?style=for-the-badge&logo=&logoColor=white)](https://github.com/Presstomsk)
+<img name="MicrosoftSQLServer" src="https://github.com/Presstomsk/icons/blob/main/MSSQL.png" width="70" height="70">
+<img name="MySQL" src="https://github.com/Presstomsk/icons/blob/main/MySql.png" width="70" height="70">
+<img name="SQLite" src="https://github.com/Presstomsk/icons/blob/main/sqlite-original.svg" width="70" height="70">
+<img name="MongoDB" src="https://github.com/Presstomsk/icons/blob/main/mongodb-original.svg" width="70" height="70">
 <img name="DocFX" src="https://github.com/Presstomsk/icons/blob/main/docFx.jpg" width="70" height="70">
 <img name="Microsoft Visual Studio" src="https://github.com/Presstomsk/icons/blob/main/visualstudio-plain.svg" width="70" height="70">
 <img name="Visual Studio Code" src="https://github.com/Presstomsk/icons/blob/main/vscode-original.svg" width="70" height="70">

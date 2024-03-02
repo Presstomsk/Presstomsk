@@ -2,21 +2,15 @@
 
 ##### Hello! I'm .NET programmer
 
-##### Мои рабочие проекты ![по ссылке](https://github.com/stars/Presstomsk/lists/my-stack) 
+##### Мои рабочие проекты ![по ссылке](https://github.com/stars/Presstomsk/lists/my-stack)
 
-##### Languages
-[![C++](https://img.shields.io/badge/c++-%23DD0031.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/Presstomsk)
-[![C#](https://img.shields.io/badge/c%23-%23DD0031.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/Presstomsk)
-[![SQL](https://img.shields.io/badge/SQL-%23DD0031.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Presstomsk)
-[![HTML5](https://img.shields.io/badge/html5-%23DD0031.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Presstomsk)
-[![CSS3](https://img.shields.io/badge/css3-%23DD0031.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Presstomsk)
-[![JavaScript](https://img.shields.io/badge/javascript-%23DD0031.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/Presstomsk)
-
-##### Tools and Technologies 
-
-[![GitHub](https://img.shields.io/badge/github-%230170FE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Presstomsk)
-[![Bootstrap](https://img.shields.io/badge/bootstrap-%230170FE?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/Presstomsk)
-[![SASS](https://img.shields.io/badge/SASS-%230170FE?style=for-the-badge&logo=SASS&logoColor=white)](https://github.com/Presstomsk)
+<p>
+<img name="C#" src="https://github.com/Presstomsk/icons/blob/main/csharp-original.svg" width="70" height="70">
+<img name="html5" src="https://github.com/Presstomsk/icons/blob/main/html5-original-wordmark.svg" width="70" height="70">
+<img name="css3" src="https://github.com/Presstomsk/icons/blob/main/css3-original-wordmark.svg" width="70" height="70">
+<img name="JavaScript" src="https://github.com/Presstomsk/icons/blob/main/javascript-original.svg" width="70" height="70">
+<img name="Bootstrap" src="https://github.com/Presstomsk/icons/blob/main/bootstrap-original-wordmark.svg" width="70" height="70">
+<img name="Sass" src="https://github.com/Presstomsk/icons/blob/main/sass-original.svg" width="70" height="70">
 <img name=".NET" src="https://github.com/Presstomsk/icons/blob/main/dot-net-original-wordmark.svg" width="70" height="70">
 <img name=".NET CORE" src="https://github.com/Presstomsk/icons/blob/main/dotnetcore-original.svg" width="70" height="70">
 <img name="WPF" src="https://github.com/Presstomsk/icons/blob/main/wpf.png" width="70" height="70">
@@ -24,6 +18,7 @@
 <img name="EF Core" src="https://github.com/Presstomsk/icons/blob/main/efcore2.png" width="70" height="70">
 <img name="Blazor" src="https://github.com/Presstomsk/icons/blob/main/Blazor.png" width="70" height="70">
 <img name="RestAPI" src="https://github.com/Presstomsk/icons/blob/main/restapi.png" width="70" height="70">
+<img name="Swagger" src="https://github.com/Presstomsk/icons/blob/main/swagger.png" width="70" height="70">
 <img name="Postman" src="https://github.com/Presstomsk/icons/blob/main/Postman.png" width="70" height="70">
 <img name="MicrosoftSQLServer" src="https://github.com/Presstomsk/icons/blob/main/MSSQL.png" width="70" height="70">
 <img name="MySQL" src="https://github.com/Presstomsk/icons/blob/main/MySql.png" width="70" height="70">
@@ -33,6 +28,7 @@
 <img name="Docker" src="https://github.com/Presstomsk/icons/blob/main/docker-original-wordmark.svg" width="70" height="70">
 <img name="Microsoft Visual Studio" src="https://github.com/Presstomsk/icons/blob/main/visualstudio-plain.svg" width="70" height="70">
 <img name="Visual Studio Code" src="https://github.com/Presstomsk/icons/blob/main/vscode-original.svg" width="70" height="70">
+</p>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Presstomsk)](https://github.com/Presstomsk/github-readme-stats)

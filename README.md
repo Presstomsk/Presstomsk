@@ -13,18 +13,20 @@
 [![JavaScript](https://img.shields.io/badge/javascript-%23DD0031.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/Presstomsk)
 
 ##### Tools and Technologies 
-[![.NET](https://img.shields.io/badge/.NET-%230170FE?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/Presstomsk)
-[![ADO.NET](https://img.shields.io/badge/ADO.NET-%230170FE?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/Presstomsk)
-[![Windows Forms](https://img.shields.io/badge/winforms-%230170FE?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/Presstomsk)
+
+
 [![WPF](https://img.shields.io/badge/WPF-%230170FE?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/Presstomsk)
 [![GitHub](https://img.shields.io/badge/github-%230170FE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Presstomsk)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%230170FE?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/Presstomsk)
 [![SASS](https://img.shields.io/badge/SASS-%230170FE?style=for-the-badge&logo=SASS&logoColor=white)](https://github.com/Presstomsk)
+<img name=".NET" src="https://github.com/Presstomsk/icons/blob/main/dot-net-original-wordmark.svg" width="70" height="70">
+<img name=".NET CORE" src="https://github.com/Presstomsk/icons/blob/main/dotnetcore-original.svg" width="70" height="70">
+<img name="WPF" src="https://github.com/Presstomsk/icons/blob/main/wpf.png" width="70" height="70">
 <img name="ASP.NET CORE" src="https://github.com/Presstomsk/icons/blob/main/aspNetCore.png" width="70" height="70">
+<img name="EF Core" src="https://github.com/Presstomsk/icons/blob/main/efcore2.png" width="70" height="70">
 <img name="Blazor" src="https://github.com/Presstomsk/icons/blob/main/Blazor.png" width="70" height="70">
 <img name="RestAPI" src="https://github.com/Presstomsk/icons/blob/main/restapi.png" width="70" height="70">
 <img name="Postman" src="https://github.com/Presstomsk/icons/blob/main/Postman.png" width="70" height="70">
-<img name="EF Core" src="https://github.com/Presstomsk/icons/blob/main/efcore2.png" width="70" height="70">
 <img name="MicrosoftSQLServer" src="https://github.com/Presstomsk/icons/blob/main/MSSQL.png" width="70" height="70">
 <img name="MySQL" src="https://github.com/Presstomsk/icons/blob/main/MySql.png" width="70" height="70">
 <img name="SQLite" src="https://github.com/Presstomsk/icons/blob/main/sqlite-original.svg" width="70" height="70">

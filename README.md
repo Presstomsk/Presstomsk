@@ -42,7 +42,7 @@
 [![Agile/Scrum](https://img.shields.io/badge/Scrum-%23E34F26.svg?style=for-the-badge&logo=&logoColor=white)](https://github.com/Presstomsk)
 [![DocFX](https://img.shields.io/badge/DocFX-%23E34F26.svg?style=for-the-badge&logo=&logoColor=white)](https://github.com/Presstomsk)
 ![Microsoft Visual Studio](https://github.com/Presstomsk/icons/blob/main/Microsoft%20Visual%20Studio.png)
-![Visual Studio Code](https://github.com/Presstomsk/icons/blob/main/Visual%20Studio.png)
+![Visual Studio Code](https://github.com/Presstomsk/icons/blob/main/vscode-original.svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Presstomsk)](https://github.com/Presstomsk/github-readme-stats)
 

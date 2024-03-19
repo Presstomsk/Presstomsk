@@ -38,7 +38,8 @@
 
 ### Certificates
 <p>
-<img name="cisco_it_essentials" src="https://github.com/Presstomsk/certificates/blob/main/cisco_it_essentials.JPG" width="70" height="70">
+<img name="cisco_it_essentials" src="https://github.com/Presstomsk/certificates/blob/main/cisco_it_essentials.JPG" width="250" height="150">
+<img name="mia_database_fundamentals" src="https://github.com/Presstomsk/certificates/blob/main/mia_database_fundamentals.JPG" width="250" height="150">
 </p>
 
 ### Stats

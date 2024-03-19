@@ -41,6 +41,7 @@
 <img name="cisco_it_essentials" src="https://github.com/Presstomsk/certificates/blob/main/cisco_it_essentials.JPG" width="250" height="150">
 <img name="mia_database_fundamentals" src="https://github.com/Presstomsk/certificates/blob/main/mia_database_fundamentals.JPG" width="250" height="150">
 <img name="mia_working_with_non_relational_data" src="https://github.com/Presstomsk/certificates/blob/main/mia_working_with_non_relational_data.JPG" width="250" height="150">
+<img name="certificate_fullstack_react_redux" src="https://github.com/Presstomsk/certificates/blob/main/certificate-fullstack.png" width="250" height="150">
 </p>
 
 ### Stats

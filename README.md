@@ -30,6 +30,11 @@
 <img name="Visual Studio Code" src="https://github.com/Presstomsk/icons/blob/main/vscode-original.svg" width="70" height="70">
 </p>
 
+### Education
+<ul>
+  <li>Tomsk State University of Control Systems and Radioelectronics</li>
+</ul>
+
 ### Stats
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Presstomsk&theme=github)
 ![Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Presstomsk&theme=github)

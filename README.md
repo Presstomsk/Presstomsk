@@ -33,6 +33,7 @@
 ### Education
 <ul>
   <li>Tomsk State University of Control Systems and Radioelectronics, Industrial electronics, 2002-2007</li>
+  <li>TOP Computer Academy, Software Development, 2020-2023</li>
 </ul>
 
 ### Stats

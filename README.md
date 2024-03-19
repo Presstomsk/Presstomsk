@@ -36,6 +36,9 @@
   <li>TOP Computer Academy, Software Development, 2020-2023</li>
 </ul>
 
+### Certificates
+
+
 ### Stats
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Presstomsk&theme=github)
 ![Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Presstomsk&theme=github)

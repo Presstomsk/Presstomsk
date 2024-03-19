@@ -37,7 +37,9 @@
 </ul>
 
 ### Certificates
-
+<p>
+<img name="cisco_it_essentials" src="https://github.com/Presstomsk/certificates/blob/main/cisco_it_essentials.JPG" width="70" height="70">
+</p>
 
 ### Stats
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Presstomsk&theme=github)

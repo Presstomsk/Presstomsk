@@ -32,7 +32,7 @@
 
 ### Education
 <ul>
-  <li>Tomsk State University of Control Systems and Radioelectronics</li>
+  <li>Tomsk State University of Control Systems and Radioelectronics, Industrial electronics, 2002-2007</li>
 </ul>
 
 ### Stats

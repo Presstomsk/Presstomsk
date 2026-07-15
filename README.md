@@ -10,9 +10,9 @@
 <img name="RestAPI" src="https://github.com/Presstomsk/icons/blob/main/restapi.png" width="70" height="70">
 <img name="Postman" src="https://github.com/Presstomsk/icons/blob/main/Postman.png" width="70" height="70">
 <img name="MicrosoftSQLServer" src="https://github.com/Presstomsk/icons/blob/main/MSSQL.png" width="70" height="70">
-<img name="MySQL" src="https://github.com/Presstomsk/icons/blob/main/MySql.png" width="70" height="70">
 <img name="Docker" src="https://github.com/Presstomsk/icons/blob/main/docker-original-wordmark.svg" width="70" height="70">
-<img name="FluentValidation" src="https://github.com/Presstomsk/icons/blob/main/FluentValidation.png" width="70" height="70">
+<img name="AutoMapper" src="https://github.com/Presstomsk/icons/blob/main/AutoMapper.png" width="70" height="70">
+<img name="FluentValidation" src="https://github.com/Presstomsk/icons/blob/main/FV2.png" width="70" height="70">
 <img name="Microsoft Visual Studio" src="https://github.com/Presstomsk/icons/blob/main/visualstudio-plain.svg" width="70" height="70">
 <img name="Visual Studio Code" src="https://github.com/Presstomsk/icons/blob/main/vscode-original.svg" width="70" height="70">
 </p>

@@ -19,6 +19,7 @@
 <img name="MicrosoftSQLServer" src="https://github.com/Presstomsk/icons/blob/main/MSSQL.png" width="70" height="70">
 <img name="PostgreSQL" src="https://github.com/Presstomsk/icons/blob/main/postgresql.png" width="70" height="70">
 <img name="Docker" src="https://github.com/Presstomsk/icons/blob/main/docker-original-wordmark.svg" width="70" height="70">
+<img name="K8S" src="https://github.com/Presstomsk/icons/blob/main/Kubernetes_(container_engine).png" width="70" height="70">
 <img name="Microsoft Visual Studio" src="https://github.com/Presstomsk/icons/blob/main/visualstudio-plain.svg" width="70" height="70">
 <img name="Visual Studio Code" src="https://github.com/Presstomsk/icons/blob/main/vscode-original.svg" width="70" height="70">
 </p>

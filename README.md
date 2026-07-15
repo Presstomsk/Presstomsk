@@ -5,7 +5,7 @@
 <img name="C#" src="https://github.com/Presstomsk/icons/blob/main/csharp-original.svg" width="70" height="70">
 <img name=".NET CORE" src="https://github.com/Presstomsk/icons/blob/main/dotnetcore-original.svg" width="70" height="70">
 <img name="ASP.NET CORE" src="https://github.com/Presstomsk/icons/blob/main/aspNetCore.png" width="70" height="70">
-<img name="EF Core" src="https://github.com/Presstomsk/icons/blob/main/efcore2.png" width="70" height="70">
+<img name="EF Core" src="https://github.com/Presstomsk/icons/blob/main/efcore.png" width="70" height="70">
 <img name="Blazor" src="https://github.com/Presstomsk/icons/blob/main/Blazor.png" width="70" height="70">
 <img name="RestAPI" src="https://github.com/Presstomsk/icons/blob/main/restapi.png" width="70" height="70">
 <img name="Postman" src="https://github.com/Presstomsk/icons/blob/main/Postman.png" width="70" height="70">

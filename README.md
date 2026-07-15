@@ -3,14 +3,7 @@
 ### Technologies
 <p>
 <img name="C#" src="https://github.com/Presstomsk/icons/blob/main/csharp-original.svg" width="70" height="70">
-<img name="html5" src="https://github.com/Presstomsk/icons/blob/main/html5-original-wordmark.svg" width="70" height="70">
-<img name="css3" src="https://github.com/Presstomsk/icons/blob/main/css3-original-wordmark.svg" width="70" height="70">
-<img name="JavaScript" src="https://github.com/Presstomsk/icons/blob/main/javascript-original.svg" width="70" height="70">
-<img name="Bootstrap" src="https://github.com/Presstomsk/icons/blob/main/bootstrap-original-wordmark.svg" width="70" height="70">
-<img name="Sass" src="https://github.com/Presstomsk/icons/blob/main/sass-original.svg" width="70" height="70">
-<img name=".NET" src="https://github.com/Presstomsk/icons/blob/main/dot-net-original-wordmark.svg" width="70" height="70">
 <img name=".NET CORE" src="https://github.com/Presstomsk/icons/blob/main/dotnetcore-original.svg" width="70" height="70">
-<img name="WPF" src="https://github.com/Presstomsk/icons/blob/main/wpf.png" width="70" height="70">
 <img name="ASP.NET CORE" src="https://github.com/Presstomsk/icons/blob/main/aspNetCore.png" width="70" height="70">
 <img name="EF Core" src="https://github.com/Presstomsk/icons/blob/main/efcore2.png" width="70" height="70">
 <img name="Blazor" src="https://github.com/Presstomsk/icons/blob/main/Blazor.png" width="70" height="70">

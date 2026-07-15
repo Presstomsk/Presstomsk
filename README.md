@@ -8,6 +8,7 @@
 <img name="EF Core" src="https://github.com/Presstomsk/icons/blob/main/efcore.png" width="70" height="70">
 <img name="Blazor" src="https://github.com/Presstomsk/icons/blob/main/Blazor.png" width="70" height="70">
 <img name="RestAPI" src="https://github.com/Presstomsk/icons/blob/main/restapi.png" width="70" height="70">
+<img name="gRPC" src="https://github.com/Presstomsk/icons/blob/main/gRPC.png" width="70" height="70">
 <img name="AutoMapper" src="https://github.com/Presstomsk/icons/blob/main/AutoMapper.png" width="70" height="70">
 <img name="FluentValidation" src="https://github.com/Presstomsk/icons/blob/main/FV2.png" width="70" height="70">
 <img name="QuartzNet" src="https://github.com/Presstomsk/icons/blob/main/QuartzNet.png" width="70" height="70">

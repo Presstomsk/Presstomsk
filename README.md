@@ -16,6 +16,7 @@
 <img name="QuartzNet" src="https://github.com/Presstomsk/icons/blob/main/QuartzNet.png" width="70" height="70">
 <img name="Polly" src="https://github.com/Presstomsk/icons/blob/main/Polly.png" width="70" height="70">
 <img name="Postman" src="https://github.com/Presstomsk/icons/blob/main/Postman.png" width="70" height="70">
+<img name="Redis" src="https://github.com/Presstomsk/icons/blob/main/Redis.png" width="70" height="70">
 <img name="MicrosoftSQLServer" src="https://github.com/Presstomsk/icons/blob/main/MSSQL.png" width="70" height="70">
 <img name="PostgreSQL" src="https://github.com/Presstomsk/icons/blob/main/postgresql.png" width="70" height="70">
 <img name="Docker" src="https://github.com/Presstomsk/icons/blob/main/docker-original-wordmark.svg" width="70" height="70">

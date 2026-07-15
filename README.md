@@ -12,6 +12,7 @@
 <img name="AutoMapper" src="https://github.com/Presstomsk/icons/blob/main/AutoMapper.png" width="70" height="70">
 <img name="FluentValidation" src="https://github.com/Presstomsk/icons/blob/main/FV2.png" width="70" height="70">
 <img name="Serilog" src="https://github.com/Presstomsk/icons/blob/main/SerilogLogo.png" width="70" height="70">
+<img name="MediatR" src="https://github.com/Presstomsk/icons/blob/main/MediatR.png" width="70" height="70">
 <img name="QuartzNet" src="https://github.com/Presstomsk/icons/blob/main/QuartzNet.png" width="70" height="70">
 <img name="Polly" src="https://github.com/Presstomsk/icons/blob/main/Polly.png" width="70" height="70">
 <img name="Postman" src="https://github.com/Presstomsk/icons/blob/main/Postman.png" width="70" height="70">
